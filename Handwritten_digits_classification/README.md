@@ -32,11 +32,11 @@ Plots:
 
 Logistic Regression (USPS):
 
-![logistic_regression](USPS/plots/lr.png)
+![logistic_regression](proj3_images/USPS/plots/lr.png)
 
 Multilayer Perceptron with one hidden layer (USPS):
 
-![mlp](USPS/plots/mlp.png)
+![mlp](proj3_images/USPS/plots/mlp.png)
 
 
 
